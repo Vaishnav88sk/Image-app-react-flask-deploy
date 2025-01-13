@@ -34,8 +34,8 @@ This web app provides a platform to search for random images from Unsplash and s
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/Vaishnav88sk/image-gallery.git
-cd image-gallery
+git clone https://github.com/Vaishnav88sk/Image-app-react-flask-deploy.git
+cd Image-app-react-flask-deploy
 ```
 
 ### 2. Setup the Backend (Flask)
