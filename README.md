@@ -34,7 +34,7 @@ This web app provides a platform to search for random images from Unsplash and s
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/image-gallery.git
+git clone https://github.com/Vaishnav88sk/image-gallery.git
 cd image-gallery
 ```
 
